@@ -1,0 +1,1 @@
+location,total_sqft,bhk,bath
